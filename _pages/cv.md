@@ -10,4 +10,4 @@ redirect_from:
 {% include base_path %}
 
 
-[Download CV here](http://academicpages.github.io/files/CV-Sand.pdf)
+[Download CV here](http://ben-sand.github.io/files/CV-Sand.pdf)
