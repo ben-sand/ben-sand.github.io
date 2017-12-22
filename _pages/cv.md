@@ -9,10 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in Github, Github University, 2099
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
 
-
+[Download CV here](http://academicpages.github.io/files/CV-Sand.pdf)
