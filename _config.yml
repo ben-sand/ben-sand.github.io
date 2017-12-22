@@ -13,7 +13,7 @@ name                     : &name "Ben Sand"
 description              : &description "I am an Associate Professor at York University. My research interests are primarily in Labour Economics. In particular, my research interests include the determinants of wage and employment, inequality, and occupation structure. I received my PhD in Economics from the University of British Columbia. I joined York University in 2011 and previously held an Assistant Professor position at Copenhagen Business school."
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "ben-sand.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Ben Sand"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
+  bio              : "I am an Associate Professor at York University. My research interests are primarily in Labour Economics. In particular, my research interests include the determinants of wage and employment, inequality, and occupation structure. I received my PhD in Economics from the University of British Columbia. I joined York University in 2011 and previously held an Assistant Professor position at Copenhagen Business school."
+  location         : "Toronto, Canada"
+  employer         : "York University, Department of Economics"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "bmsand@yorku.ca"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "ben-sand"
   google_plus      :
   keybase          :
   instagram        :
@@ -104,7 +104,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
