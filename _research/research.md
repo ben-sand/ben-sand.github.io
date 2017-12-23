@@ -20,6 +20,8 @@ references:
   issued:
     year: 2012
     month: 3
+nocite: | 
+  @item1
 ---
 
 [My repec page is here](https://ideas.repec.org/f/psa1145.html)
