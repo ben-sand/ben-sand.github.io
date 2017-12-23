@@ -112,6 +112,9 @@
        {% if author.researchgate %}
         <li><a href="{{ author.researchgate }}"><i class="fa fa-fw fa-chain" aria-hidden="true"></i> Research Gate</a></li>
       {% endif %}
+      {% if author.repec %}
+        <li><a href="{{ author.repec }}"><i class="fa fa-fw fa-chain" aria-hidden="true"></i> RePEc</a></li>
+      {% endif %}
     </ul>
   </div>
 </div>
