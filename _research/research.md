@@ -9,13 +9,11 @@ author_profile: true
 
 ## Working papers
 
-- [Geographic Spillovers from Booms: The effects of Canada's Resource Boom on Canada-US Differences in Wages](https://economics.ubc.ca/files/2017/06/pdf_paper_david-green-resource-boom.pdf), July 2016. (with David A. Green and Rene Morissette)
+- [Geographic Spillovers from Booms: The effects of Canada's Resource Boom on Canada-US Differences in Wages](http://ben-sand.github.io/files/GSB-V5.pdf), August 2018. (with David A. Green, Rene Morissette, and Iain Snoddy)
 
-- [In Search of Labor Demand](https://ideas.repec.org/p/nbr/nberwo/20568.html), August 2017. (with Paul Beaudry and David A. Green)
+- [Do Financial Constraints Cool a Housing Boom?](https://github.com/ben-sand/ben-sand.github.io/files/MortgageInsuranceCanada-10222018.pdf), October 2018. (with Lu Han, Chandler Lutz, and Derek Stacey)
 
-- [Do Financial Constraints Cool a Housing Boom?](https://chandlerlutz.github.io/pdf/macroprudential-financial-housing-constraints.pdf), December 2017. (with Lu Han, Chandler Lutz, and Derek Stacey)
-
-- [Estimating the Gains from Trade in Frictional Labour Markets](https://jtschopp.files.wordpress.com/2017/12/jmp_preliminarywp_tschopp.pdf), December 2017. (with German Pupato and Jeanne Tschoop)
+- [Estimating the Gains from Trade in Frictional Labour Markets](https://github.com/ben-sand/ben-sand.github.io/files/PTS-V15.pdf), December 2017. (with German Pupato and Jeanne Tschoop)
 
 - [Highly Disaggregated Topological Land Unavailability](https://chandlerlutz.github.io/pdf/land-unavailability.pdf), December 2017. (with Chandler Lutz)
 
@@ -30,6 +28,8 @@ author_profile: true
 - [Estimating Labour Supply Responses using Provincial Tax Reforms](http://dept.econ.yorku.ca/~bmsand/ProvincialTaxReforms-Sand.pdf), 2005.
 
 ## Publications
+
+- [In Search of Labor Demand](https://www.aeaweb.org/articles?id=10.1257/aer.20141374&&from=f). *American Economic Review,* September 2018. (with Paul Beaudry and David A. Green)
 
 - [The Great Reversal in the Demand for Skill and Cognitive Tasks](http://www.journals.uchicago.edu/doi/10.1086/682347). *Journal of Labor Economics*, 2016.  (with Paul Beaudry and David A. Green)
 
