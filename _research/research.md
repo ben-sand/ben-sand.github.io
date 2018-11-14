@@ -11,9 +11,9 @@ author_profile: true
 
 - [Geographic Spillovers from Booms: The effects of Canada's Resource Boom on Canada-US Differences in Wages](http://ben-sand.github.io/files/GSB-V5.pdf), August 2018. (with David A. Green, Rene Morissette, and Iain Snoddy)
 
-- [Do Financial Constraints Cool a Housing Boom?](https://github.com/ben-sand/ben-sand.github.io/files/MortgageInsuranceCanada-10222018.pdf), October 2018. (with Lu Han, Chandler Lutz, and Derek Stacey)
+- [Do Financial Constraints Cool a Housing Boom?](http://ben-sand.github.io/files/MortgageInsuranceCanada-10222018.pdf), October 2018. (with Lu Han, Chandler Lutz, and Derek Stacey)
 
-- [Estimating the Gains from Trade in Frictional Labour Markets](https://github.com/ben-sand/ben-sand.github.io/files/PTS-V15.pdf), December 2017. (with German Pupato and Jeanne Tschoop)
+- [Estimating the Gains from Trade in Frictional Labour Markets](http://ben-sand.github.io/files/PTS-V15.pdf), December 2017. (with German Pupato and Jeanne Tschoop)
 
 - [Highly Disaggregated Topological Land Unavailability](https://chandlerlutz.github.io/pdf/land-unavailability.pdf), December 2017. (with Chandler Lutz)
 
