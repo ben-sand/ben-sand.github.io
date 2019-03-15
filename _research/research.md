@@ -9,7 +9,7 @@ author_profile: true
 
 ## Working papers
 
-- [Do Financial Constraints Cool a Housing Boom?](http://ben-sand.github.io/files/MortgageInsuranceCanada-0302219.pdf), October 2018. (with Lu Han, Chandler Lutz, and Derek Stacey)
+- [Do Financial Constraints Cool a Housing Boom?](http://ben-sand.github.io/files/MortgageInsuranceCanada-0302219.pdf), March 2019. (with Lu Han, Chandler Lutz, and Derek Stacey)
 
 - [Estimating the Gains from Trade in Frictional Labour Markets](http://ben-sand.github.io/files/Manuscript_PST_042019.pdf), March 2019. (with German Pupato and Jeanne Tschoop)
 
@@ -27,7 +27,7 @@ author_profile: true
 
 ## Publications
 
-- [Geographic Spillovers from Booms: The effects of Canada's Resource Boom on Canada-US Differences in Wages](http://ben-sand.github.io/files/GSB-V5.pdf), forthcoming. (with David A. Green, Rene Morissette, and Iain Snoddy)
+- [Geographic Spillovers from Booms: The effects of Canada's Resource Boom on Canada-US Differences in Wages](http://ben-sand.github.io/files/GSB-V5.pdf), forthcoming *Journal of Labor Economics*. (with David A. Green, Rene Morissette, and Iain Snoddy)
 
 - [In Search of Labor Demand](https://www.aeaweb.org/articles?id=10.1257/aer.20141374&&from=f). *American Economic Review,* September 2018. (with Paul Beaudry and David A. Green)
 
