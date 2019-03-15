@@ -11,7 +11,7 @@ author_profile: true
 
 - [Do Financial Constraints Cool a Housing Boom?](http://ben-sand.github.io/files/MortgageInsuranceCanada-0302219.pdf), October 2018. (with Lu Han, Chandler Lutz, and Derek Stacey)
 
-- [Estimating the Gains from Trade in Frictional Labour Markets](http://ben-sand.github.io/files/PTS-V15.pdf), March 2019. (with German Pupato and Jeanne Tschoop)
+- [Estimating the Gains from Trade in Frictional Labour Markets](http://ben-sand.github.io/files/Manuscript_PST_042019.pdf), March 2019. (with German Pupato and Jeanne Tschoop)
 
 - [Highly Disaggregated Topological Land Unavailability](https://chandlerlutz.github.io/pdf/land-unavailability.pdf), December 2017. (with Chandler Lutz)
 
