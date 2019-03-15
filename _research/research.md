@@ -27,7 +27,7 @@ author_profile: true
 
 ## Publications
 
-- [Geographic Spillovers from Booms: The effects of Canada's Resource Boom on Canada-US Differences in Wages](http://ben-sand.github.io/files/GSB-V5.pdf), August 2018. (with David A. Green, Rene Morissette, and Iain Snoddy)
+- [Geographic Spillovers from Booms: The effects of Canada's Resource Boom on Canada-US Differences in Wages](http://ben-sand.github.io/files/GSB-V5.pdf), forthcoming. (with David A. Green, Rene Morissette, and Iain Snoddy)
 
 - [In Search of Labor Demand](https://www.aeaweb.org/articles?id=10.1257/aer.20141374&&from=f). *American Economic Review,* September 2018. (with Paul Beaudry and David A. Green)
 
