@@ -17,7 +17,7 @@ author_profile: true
 
 - [Local Economic Conditions and Local Equity Preferences](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2912419), July 2017. (with Chandler Lutz and Aleksandra Rzeznik)
 
-- [Job Prospects and Pay Gaps: Theory and Evidence from U.S. Cities](http://www.sfu.ca/econ-research/RePEc/sfu/sfudps/dp16-14.pdf), July 2016. (with Christopher Bidner)
+- [Job Prospects and Pay Gaps: Theory and Evidence from U.S. Cities](http://ben-sand.github.io/files/BidnerSand_Mar17.pdf), March 2017. (with Christopher Bidner)
 
 - [Taking Selection to Task: Bounds on Trends in Occupational Task Prices](http://dept.econ.yorku.ca/~bmsand/TPT_v10.pdf),  August 2016. (witgh Peter Gottchalk and David A. Green)
 
