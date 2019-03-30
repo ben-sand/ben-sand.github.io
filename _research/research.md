@@ -23,7 +23,7 @@ author_profile: true
 
 - [Job Polarization in the U.S.: A Reassessment of the Evidence from the 1980s and 1990s](http://ideas.repec.org/p/usg/econwp/201103.html), August 2011. (with A.M. Lefter)
 
-- [Estimating Labour Supply Responses using Provincial Tax Reforms](http://dept.econ.yorku.ca/~bmsand/ProvincialTaxReforms-Sand.pdf), 2005.
+- [Estimating Labour Supply Responses using Provincial Tax Reforms](http://ben-sand.github.io/files/ProvincialTaxReforms-Sand.pdf), 2005.
 
 ## Publications
 
