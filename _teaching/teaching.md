@@ -17,4 +17,5 @@ redirect_from:
 
   1. Empirical Labour Economics, 5620. Winter 2013, 2014, 2015, 2016, 2017
   2. Special Topics in Microeconomics, 7100. Fall 2012, Winter 2014,  2015, 2016
+  2. Empirical Strategies and Data Analysis, 5280. 2020.
 
