@@ -9,9 +9,7 @@ author_profile: true
 
 ## Working papers
 
-- [Do Financial Constraints Cool a Housing Boom?](http://ben-sand.github.io/files/MortgageInsuranceCanada-03022019.pdf), March 2019. (with Lu Han, Chandler Lutz, and Derek Stacey)
-
-- [Estimating the Gains from Trade in Frictional Labour Markets](http://ben-sand.github.io/files/PTS-V21-EJrr.pdf), October 2020. (with German Pupato and Jeanne Tschoop) [Online Appendix](http://ben-sand.github.io/files/oneline_for_v21_EJrr.pdf)
+- [Estimating the Gains from Trade in Frictional Labour Markets](http://ben-sand.github.io/files/PTS-V25_JEEA.pdf), October 2020. (with German Pupato and Jeanne Tschoop) [Online Appendix](http://ben-sand.github.io/files/PTS-V25_JEEA_Appendix.pdf)
 
 - [Highly Disaggregated Topological Land Unavailability](https://chandlerlutz.github.io/pdf/land-unavailability.pdf), December 2017. (with Chandler Lutz)
 
@@ -27,7 +25,9 @@ author_profile: true
 
 ## Publications
 
-- [Geographic Spillovers from Booms: The effects of Canada's Resource Boom on Canada-US Differences in Wages](http://ben-sand.github.io/files/GSB-V5.pdf), forthcoming *Journal of Labor Economics*. (with David A. Green, Rene Morissette, and Iain Snoddy)
+- [The Effects of a Targeted Financial Constraint on the Housing Market](https://academic.oup.com/rfs/article/34/8/3742/6239712), April 2021. *The Review of Financial Studies* (with Lu Han, Chandler Lutz, and Derek Stacey)
+
+- [Economy-Wide Spillovers from Booms: Long-Distance Commuting and the Spread of Wage Effects](https://www.journals.uchicago.edu/doi/abs/10.1086/703362), March 2019 *Journal of Labor Economics*. (with David A. Green, Rene Morissette, and Iain Snoddy)
 
 - [In Search of Labor Demand](https://www.aeaweb.org/articles?id=10.1257/aer.20141374&&from=f). *American Economic Review,* September 2018. (with Paul Beaudry and David A. Green)
 
