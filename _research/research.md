@@ -9,13 +9,15 @@ author_profile: true
 
 ## Working papers
 
-- [Estimating the Gains from Trade in Frictional Labour Markets](http://ben-sand.github.io/files/PTS-V25_JEEA.pdf), October 2020. (with German Pupato and Jeanne Tschoop) [Online Appendix](http://ben-sand.github.io/files/PTS-V25_JEEA_Appendix.pdf)
+- [Estimating Union Wage Spillovers: The Role of Bargaining and Emulation Effects] , 2023. (with D. A. Green, Iann Snoddy, Jeanne Tschopp).  *revise and resbumit, Journal of Political Economy*
+
+- [Estimating the Gains from Trade in Frictional Labour Markets](http://ben-sand.github.io/files/PTS-V25_JEEA.pdf), October 2023. (with German Pupato and Jeanne Tschoop) [Online Appendix](http://ben-sand.github.io/files/PTS-V25_JEEA_Appendix.pdf) *revise and resubmit, The Scandinavian Journal of Economics*
+
+- [Job Prospects and Pay Gaps: Theory and Evidence from U.S. Cities](http://ben-sand.github.io/files/BidnerSand_Mar17.pdf), September 2023. (with Christopher Bidner)
 
 - [Highly Disaggregated Topological Land Unavailability](https://chandlerlutz.github.io/pdf/land-unavailability.pdf), December 2017. (with Chandler Lutz)
 
 - [Local Economic Conditions and Local Equity Preferences](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2912419), July 2017. (with Chandler Lutz and Aleksandra Rzeznik)
-
-- [Job Prospects and Pay Gaps: Theory and Evidence from U.S. Cities](http://ben-sand.github.io/files/BidnerSand_Mar17.pdf), March 2017. (with Christopher Bidner)
 
 - [Taking Selection to Task: Bounds on Trends in Occupational Task Prices](http://dept.econ.yorku.ca/~bmsand/TPT_v10.pdf),  August 2016. (witgh Peter Gottchalk and David A. Green)
 
