@@ -9,7 +9,7 @@ author_profile: true
 
 ## Working papers
 
-- Estimating Union Wage Spillovers: The Role of Bargaining and Emulation Effects, 2023. (with D. A. Green, Iann Snoddy, Jeanne Tschopp).  *revise and resbumit, Journal of Political Economy*
+- Estimating Union Wage Spillovers: The Role of Bargaining and Emulation Effects, 2023. (with D. A. Green, Iann Snoddy, Jeanne Tschopp).  *revise and submit, Journal of Political Economy*
 
 - [Estimating the Gains from Trade in Frictional Labour Markets](http://ben-sand.github.io/files/PTS-V25_JEEA.pdf), October 2023. (with German Pupato and Jeanne Tschoop) [Online Appendix](http://ben-sand.github.io/files/PTS-V25_JEEA_Appendix.pdf) *revise and resubmit, The Scandinavian Journal of Economics*
 
