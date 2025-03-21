@@ -31,7 +31,9 @@ author_profile: true
 
 ## Working papers
 
-- [Estimating Union Wage Spillovers: The Role of Bargaining and Emulation Effects](https://jtschopp.com/wp-content/uploads/2025/02/gsst_2025.pdf) [(Online Appendix)](https://jtschopp.com/wp-content/uploads/2025/02/gsst_oa_2025.pdf), 2023. (with D. A. Green, Iain Snoddy, Jeanne Tschopp). *Revise and resubmit, Journal of Political Economy.*
+- Breaking the Charm: How Odd Pricing Fails in Housing Markets, 2025. (with Lu Han and Sridhar Moorthy)
+
+- [Estimating Union Wage Spillovers: The Role of Bargaining and Emulation Effects](https://jtschopp.com/wp-content/uploads/2025/02/gsst_2025.pdf) [(Online Appendix)](https://jtschopp.com/wp-content/uploads/2025/02/gsst_oa_2025.pdf), 2025. (with D. A. Green, Iain Snoddy, Jeanne Tschopp). *Revise and resubmit, Journal of Political Economy.*
 
 - [Pay Gaps and Outside Wages: The U.S. Gender Wage Gap 1980-2010](https://clef.uwaterloo.ca/wp-content/uploads/2024/12/CLEF-082-2024.pdf), September 2023. (with Christopher Bidner)
 
