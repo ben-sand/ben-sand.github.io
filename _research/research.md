@@ -9,6 +9,8 @@ author_profile: true
 
 ## Publications
 
+- [Estimating Union Wage Spillovers: The Role of Bargaining and Emulation Effects](https://jtschopp.com/wp-content/uploads/2025/02/gsst_2025.pdf) [(Online Appendix)](https://jtschopp.com/wp-content/uploads/2025/02/gsst_oa_2025.pdf), 2025. (with D. A. Green, Iain Snoddy, Jeanne Tschopp). *Conditionally Accepted, Journal of Political Economy.*
+
 - [Estimating the Gains from Trade in Frictional Labour Markets](http://ben-sand.github.io/files/PTS-V25_JEEA.pdf), October 2023. (with German Pupato and Jeanne Tschopp) [Online Appendix](http://ben-sand.github.io/files/PTS-V25_JEEA_Appendix.pdf). *Forthcoming, The Scandinavian Journal of Economics.*
 
 - [The Effects of a Targeted Financial Constraint on the Housing Market](https://academic.oup.com/rfs/article/34/8/3742/6239712), April 2021. *The Review of Financial Studies.* (with Lu Han, Chandler Lutz, and Derek Stacey)
@@ -31,9 +33,11 @@ author_profile: true
 
 ## Working papers
 
-- Breaking the Charm: How Odd Pricing Fails in Housing Markets, 2025. (with Lu Han and Sridhar Moorthy)
+- [Odd Pricing and the Microstructure of Search in Housing Markets](http://ben-sand.github.io/files/OddPricing-5.pdf), 2026. (with Lu Han and Sridhar Moorthy)
 
-- [Estimating Union Wage Spillovers: The Role of Bargaining and Emulation Effects](https://jtschopp.com/wp-content/uploads/2025/02/gsst_2025.pdf) [(Online Appendix)](https://jtschopp.com/wp-content/uploads/2025/02/gsst_oa_2025.pdf), 2025. (with D. A. Green, Iain Snoddy, Jeanne Tschopp). *Revise and resubmit, Journal of Political Economy.*
+- Union Decline and Political Realignment, 2026. (with D.A. Green and Jeanne Tschopp)
+
+- [Peer Fragility, Liquidity Preferences, and the Propagation of Financial Shocks](http://ben-sand.github.io/files/RS-PeerFragility-v6.pdf), 2026. (with Aleksandra Rzeznik)
 
 - [Pay Gaps and Outside Wages: The U.S. Gender Wage Gap 1980-2010](https://clef.uwaterloo.ca/wp-content/uploads/2024/12/CLEF-082-2024.pdf), September 2023. (with Christopher Bidner)
 
@@ -46,4 +50,3 @@ author_profile: true
 - [Job Polarization in the U.S.: A Reassessment of the Evidence from the 1980s and 1990s](http://ideas.repec.org/p/usg/econwp/201103.html), August 2011. (with A.M. Lefter)
 
 - [Estimating Labour Supply Responses using Provincial Tax Reforms](http://ben-sand.github.io/files/ProvincialTaxReforms-Sand.pdf), 2005.
-
